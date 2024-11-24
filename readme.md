@@ -80,7 +80,7 @@ No arquivo `package.json`, você encontrará os seguintes scripts:
 
 1. Clone este repositório:
    ```bash
-   git clone <URL-do-repositório>
+   git clone https://github.com/vinicius041735/zaedes-front-end.git
    ```
 2. Instale as dependências:
    ```bash
